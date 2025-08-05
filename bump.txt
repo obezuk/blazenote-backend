@@ -1,1 +1,2 @@
+- Bump to see if needed for env vars
 - Bump because Workers Pages did not allow me to select starter branch. Apparently I cannot manually trigger a build from UI.
